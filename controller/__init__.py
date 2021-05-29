@@ -1,0 +1,5 @@
+from .login_controller import LoginController
+from .dashboard_controller import DashboardController
+from .guruh_controller import GuruhController
+from .yunalish_controller import YunalishController
+from .talaba_controller import TalabaController
